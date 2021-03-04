@@ -13,7 +13,7 @@ This project is a requirement of the Udacity Data Science Nanodegree. Inspired b
 there is a Notebook with all the development aiming to build an effective credit score.
 ## Results
 The findings of the code can be found in the following post:
-https://medium.com/@pipelon757/how-to-assess-the-credit-performance-from-a-portfolio-f15881c616b
+https://medium.com/@pipelon757/above-and-beyond-a-credit-score-41af76a4fd32
 ## Licensing, Authors and Acknowlegements
 The data is available in Kaggle, you can find the Licensing agreements for the use of the data here:
 https://www.kaggle.com/c/GiveMeSomeCredit/overview
